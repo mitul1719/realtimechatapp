@@ -1,0 +1,8 @@
+.tab {
+  display: flex !important;
+  justify-content: space-around !important;
+}
+
+.group {
+  display: flex !important;
+}
